@@ -1,0 +1,34 @@
+{
+    "name": "oaki",
+    "version": "1.0.0",
+    "description": "oakiBot",
+    "main": "sudestada.js",
+    "scripts": {
+        "test": "-"
+    },
+    "keywords": [
+        "-"
+    ],
+    "author": "siegmund",
+    "license": "ISC",
+    "dependencies": {
+        "ascii-table": "0.0.9",
+        "axios": "^0.19.2",
+        "base-64": "^0.1.0",
+        "common-tags": "^1.8.0",
+        "dateformat": "^3.0.3",
+        "discord.js": "^12.0.2",
+        "dotenv": "^8.2.0",
+        "erela.js": "^1.1.7",
+        "gamedig": "^2.0.23",
+        "jsdom": "^16.2.1",
+        "moment": "^2.25.3",
+        "node-fetch": "^2.6.0",
+        "node-int64": "^0.4.0",
+        "nodemon": "^2.0.4",
+        "ping": "^0.2.3",
+        "request": "^2.88.2",
+        "steamapi": "^2.1.1",
+        "xmldom": "^0.3.0"
+    }
+}
